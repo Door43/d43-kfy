@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kfy:home|Door43 (kfy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kfy|d43-kfy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kfy/archive/master.zip|d43-kfy.zip]]
+
+**Recent Changes**
+{{changes>ns = kfy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kfy|Ethnologue data]]
+
